@@ -64,6 +64,6 @@ body{
 }
 
 
-.button-area button:active{
+.button-area #button:active{
     background-color: lightblue;
 }
