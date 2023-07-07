@@ -2,7 +2,7 @@
 Java quote generator
 
 ## Description
-The project has a button which when clicked it generates a new quote.
+The project has a button which when clicked a timer is triggered and a quote is generated 
 
 
 ## Technologies Used
