@@ -1,6 +1,3 @@
-
-
-
 fetch('http://localhost:3000/quotes')
 .then((res)=> res.json())
 .then((quotes)=>{
@@ -17,20 +14,5 @@ fetch('http://localhost:3000/quotes')
 }).catch(error => console.log('error'))
 
 
-
-
-// const api_url='http://localhost:3000/quotes';
-//  async function getQuote(url){
-//    const response=await fetch(url);
-//    let quotes=await response.json();
-//    console.log(quotes);
-
-//    const Quote= document.getElementById("quote");
-//    const Author= document.getElementById("author");
-//    Quote.innerHTML=quotes.quote
-//    Author.innerHTML=quotes.author
-   
-//  }
-//  getQuote(api_url)
 
 
