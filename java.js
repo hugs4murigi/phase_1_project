@@ -1,5 +1,5 @@
 //fetching objects from json file
-fetch('http://localhost:3000/quotes')
+fetch('https://api.npoint.io/dbe7abfccb9657be3ff7/quotes')
 .then((res)=> res.json())
 .then((quotes)=>{
     //creating variables for the content in the html file
