@@ -13,6 +13,26 @@ fetch('http://localhost:3000/quotes')
     })
 }).catch(error => console.log('error'))
 
+const timer = document.getElementById('time')
+const textArea =document.getElementById('text-area')
+const myButton = document.getElementById('button')
+
+myButton.addEventListener("click", function(){
+    timer.style.display="block"
+    textArea.style.display="none"
+     let second =3
 
 
+     const interval1 = setInterval(()=>{
+        second--
 
+        if(second/3===0){
+            clearInterval(interval1)
+            timer.style.display="none"
+            textArea.style.display="block"
+            second = 3
+        }
+        document.getElementById('time').innerHTML=second
+
+     },1000)
+})

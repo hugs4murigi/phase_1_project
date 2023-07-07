@@ -19,6 +19,17 @@ body{
     height: 450px;
 }
 
+#time{
+    font-size: 4rem;
+    display: none;
+    color: red;
+
+}
+
+#text-area{
+    display: block;
+}
+
 .header{
     font-size: 1.2rem;
     border: solid 2px #ffff;
@@ -40,7 +51,7 @@ body{
 
 }
 
-.main-content .text-area{
+.main-content #text-area{
     font-size: 1.5rem;
     line-height: 1.5;
 }
