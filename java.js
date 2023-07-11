@@ -51,3 +51,4 @@ myButton.addEventListener("click", function(){
         //duration for the timer
      },1000)
 })
+
