@@ -15,7 +15,7 @@ This challenge was mainly based on
 ## Installation
 To install this project, you need to have vs-code, git installed in your machine.
 
-Then simply clone the reposetory at the terminal n then by using the command 'git clone https://github.com/austinaeden/project-1.git'. 
+Then simply clone the reposetory at the terminal n then by using the command 'git clone https://github.com/hugs4murigi-myphaseproject.git'. 
 
 Then navigate to the project directory by using the command "cd project-1".
 
@@ -47,7 +47,7 @@ Submit a pull request.
 
 ## License
 MIT License 
-Copyright (c) [2023] [Austin Mbogo]
+Copyright (c) [2023] [BRIAN MURIGI]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -67,7 +67,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author
-This project was created by Austin Mbogo. You can contact me at (austin.mbogo@student.moringaschool.com).
+This project was created by Brian Murigi. You can contact me at (brian.murigi1@student.moringaschool.com).
 
 ## Support
-For help, you can contact (austin.mbogo@student.moringaschool.com).
+For help, you can contact (brian.murigi1@student.moringaschool.com).
